@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-* main - a C program that prints the size of various
+* main - A C program that prints the size of various
 * types on the computer it is compiled and run on
-* Discription: The program discription
+* Discription: Print size of different data types
 * Return 0 (Success)
 */
 int main(void)
