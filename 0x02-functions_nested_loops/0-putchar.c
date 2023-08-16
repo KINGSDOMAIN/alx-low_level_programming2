@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - print _putchar
- * By Kingsi
+ * By Kings
  * Return: 0 Success
  */
 int main(void)
